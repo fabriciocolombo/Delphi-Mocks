@@ -4,4 +4,4 @@ Delphi Mocks is a simple mocking framework for Delphi XE2 or later. It makes use
 
 UPDATED : Now implements mocking on classes and interfaces. 
 
-TODO : More testing.
+TODO : More and more testing.
